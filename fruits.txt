@@ -1,3 +1,7 @@
 pasta
-pizza
+pizza/changed
 soup
+banana
+avocado
+
+
